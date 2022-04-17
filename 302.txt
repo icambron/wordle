@@ -1,0 +1,44 @@
+after 1
+----
+blame
+flame
+blaze
+glaze
+plane
+flake
+clade
+place
+plate
+blade
+whale
+quake
+atune
+awoke
+atone
+
+(postmortem: missed _lots_ of A* words like ABOVE, ABOVE, ACUTE, ADOBE, AMAZE, AWAKE, and more. Also EVADE/ELATE, PEACE/WEAVE/HEAVE/LEAVE, OVATE and then a few others in the patterns I looked for
+like CHAFE and KNAVE. Got too anchored on <con>LA<con>E)
+
+good choices after 1
+-----------
+blunt
+black *
+clump
+flack
+
+(postmortem: BLACK ended up being pretty good, despite how many possibilities I missed. nytimes liked BLAND here, which I'd have used too if I'd thought of it, though BLACK ended up better in this case. They gave me a 94 on BLACK. I don't know why I liked B so much given that I hadn't even thought of ABOVE/ABODE/ADOBE; like why didn't I choose PLACK? Whatever, worked out.)
+
+after 2
+------
+
+well, those were all wrong, didn't look hard enough at A*
+probably A**LE
+maybe A*L*E with another vowel in there? Nope
+long shot for ***AE? But ALGAE is gone. Going to go with also nope
+
+atole is some kind of mexican drink? nix
+ample *
+apple
+angle
+
+(postmortem: BLACK eliminated ANKLE and made that choice much easier, thanks to my lucky focus on L. Think I did ok here, little luck in AMPLE vs APPLE, just thought of AMPLE first)
