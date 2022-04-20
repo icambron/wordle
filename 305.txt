@@ -1,0 +1,23 @@
+after  1
+------
+
+party *
+cargo
+carry
+parry
+tardy
+parka
+tarot
+
+(postmortem: not great. missed baron, favor, carol, larva, karma, march, labor, valor, macro, manor, harry, marry, which resultrd in some big indistinguishable groups. nyt still gsve a 90. They used clomp)
+
+after 2
+----
+
+cargo *
+
+cant possibly be the only one, but it's all i got
+
+yay!
+
+(postmortem: luck! baron, carol, march, karma, larva in play. cargo is ok but doesn't split karma/larva, whereas carol gets them all)
