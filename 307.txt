@@ -3,6 +3,8 @@ after 1
 
 Just the A. Not much here. Going with COUNT
 
+(postmortem...nyt likes CLOUT here, creates significantly more groups, not sure how I'd ever figure that out though)
+
 after 2
 ----
 
@@ -17,3 +19,5 @@ QUANT - I don't think this is really a word
 
 
 (yay!)
+
+(postmortem - was indeed the only word. nyt gave me a 94)
