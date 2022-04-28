@@ -1,0 +1,12 @@
+raise -> count -> glyph
+
+should have done that y-ending lookup i meant to do...
+
+TESTY
+ZESTY *
+
+yay
+
+v curious what i missed here
+
+postmortem: count was too conservative, should have tried to locate the S. glyph was too consertvive and it was worth making a list there: steed, steel, steep, zesty, testy. i didnt consider double Es at all and didnt probe Y endings until after glyph. imo this one was pretty hard. 81 overall
