@@ -1,0 +1,14 @@
+raise -> count -> glyph
+
+this is probably one of those places where there are only a few words but I can't search it effectively. Wide and sparse.
+
+postmortem: this was right. COUNT was v good according to nyt but GLYPH was splitting just seven words, words i dont think i would have been able to generate. So they gave me a 70 necause it doesn't split WORRY/DOWRY/WORDY but I'm actually happy there. GLYPH was both analytically easy and relatively good
+
+after 3
+------
+
+just combinatoric search through the possibilites, but twice because i missed it the first time. FORGO is pronounced FOREGO so i said it wrong in my head. But anyway, going with that.
+
+yay
+
+Postmortem: forgo was the only word. 90 overall
