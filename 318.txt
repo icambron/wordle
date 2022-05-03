@@ -1,0 +1,16 @@
+after 1
+-----
+
+HAIRY*
+DAIRY
+FAIRY
+
+I could go for it or i could guess HEFTS or something. But im more worried about unknown unknowns, and it seems more sane to check my work and maybe get lucky.
+
+boom baby!
+
+postmortem: some luck here, obviously. i picked hairy on the simple basis that H is slightly more common and i probably missed stuff. It turns out that i missed CAIRN, which HEFTS (or most other choices) would have whifed on, so i'm mostly standing by this choice. nyt liked HAIRY too (actually any of Ys) but im not sure why; its runner up HARDY seems better. If i'd though a bit harder i'd have looked for a Y word too. Luckily i am not that smart.
+
+i guess it likes hairy because 1/4 * 0 (hairy) + 1/2 * 1 (cairn and let's say i guess dairy) + 1/4 * 2 (fairy) = 1, so E(v) is the same as burning the guess. 
+
+anyway, 99, though obviously not highly skilled play in reality
