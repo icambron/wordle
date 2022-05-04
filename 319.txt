@@ -1,0 +1,23 @@
+after 1
+-----
+
+CHART seems good. C, H, T, attempt to locate A and R. Could probably do better by not using R (CHANT is an obvious option)
+
+postmortem: NYT did not like CHART (72) or CHANT (74). GLAND is their choice and it is indeed awesome. But very hard to figure that out.
+
+after 2
+----
+
+I've got:
+
+TRAIL*
+TRAIN
+
+If I'd done CHANT, I'd know now. So there's that.
+
+postmortem: these were the only two
+
+after 3
+-----
+
+I guess it's TRAIN
