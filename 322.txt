@@ -1,0 +1,23 @@
+after 1
+------
+
+I doubt there's a U, going with CLOTH
+
+postmortem: NYT did not like cloth (46). Turns out there are only a handful of words here, so you can pick much more precisely. But I'd have had a really hard time generating them with that.
+
+after 2
+-----
+
+TIPSY*
+BITSY
+
+after 3
+-----
+
+well, it wasn't that
+
+MIDST. Took me forever to find that
+
+yay!
+
+potmortem: bitsy is not a valid answer, so it was actually a TIPSY/MIDST tossup. So besides the (apparently) poor CLOTH, I did just fine. 86 overall.
