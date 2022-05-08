@@ -1,0 +1,12 @@
+raise -> count
+
+postmortem: count was optimal. i did it heuristically, though.
+
+after 2
+----
+
+CANNY
+
+i guess that's all there is to it
+
+postmortem: 99
