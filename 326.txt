@@ -1,0 +1,22 @@
+after 1
+------
+
+I think i could analyze there.
+
+large
+carve
+
+i feel like i'm missing s few. probably no more vowels though
+
+cloth covers those two and probaly a lot more
+
+postmortem: smaller space than i assumed. only missed farce and barge. cloth (and a ton of other choices) was optimal. having good heuristics lets you be lazy
+
+after 2
+-----
+
+FARCE
+
+that's it, right?
+
+postmortem: thst was it. 99 overall
