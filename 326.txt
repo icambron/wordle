@@ -1,7 +1,7 @@
 after 1
 ------
 
-I think i could analyze there.
+I think i could analyze here.
 
 large
 carve
@@ -19,4 +19,4 @@ FARCE
 
 that's it, right?
 
-postmortem: thst was it. 99 overall
+postmortem: that was it. 99 overall

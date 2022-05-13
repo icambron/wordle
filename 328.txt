@@ -1,0 +1,25 @@
+after 1
+----
+
+the I is funny. It's not in the most obvious spot, which suggests more vowels. hence COUNT
+
+postmortem: terrible choice. There are only a handful of words for just the reason i said: that's a weird place for a yellow I. gipsy, kiosk, midst, missy, tipsy, sissy (but not misty, for some reason). so COUNT was a flail, and doesnt differentiate missy/gipsy/sissy. still, that is a hard list to come up with. i dont feel bad, despite NYT's 63
+
+after 2
+-----
+
+Huh. not what i expected. i think it has to be a Y at the end. H would need a three-consonant combo and sh doesnt seem to do that.
+
+BITSY - we learned this is not a word, right?
+TIPSY - but wasnt it just that a few days ago?
+DITSY - isnt it ditzy?
+
+oddballs:
+
+- two I's with one at the end?
+
+oh yeah, it wasnt tipsy a few days ago. it was midst and i just guessed tipsy. so im going with tipsy
+
+yay
+
+postmortem: tipsy was the only choice
