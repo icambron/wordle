@@ -1,0 +1,24 @@
+raise -> count
+
+after 2
+-----
+
+This is probably a small list but i can't generate words for it.
+
+going with whelp, because, whelp
+
+postmortem: this was correct. Whelp didnt turn out to be especially good but I'm ok with that
+
+after 3
+------
+
+this seems doable. The E not being in the third spot means 3 & 4 are unblended but adjacent consonants 
+
+DELVE
+LEDGE
+
+Going wirh DELVE
+
+yay
+
+postmortem: missed MELEE. i actually thought of EE but missed melee in particular. I wonder if i'd have found it? I think so. 85 overall
