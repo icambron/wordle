@@ -1,0 +1,35 @@
+after 1
+----
+
+I don't need another vowel, so going with CLOTH
+
+postmortem: NYC _hated_ cloth, a 41. They went with KNELT. I do need a better word with N in it that has only one vowel. KNELT is really pretty good.
+
+after 2
+----
+
+steak
+stead
+steam
+asset
+
+so...need to sort through those last letters and check possition on s
+
+smoke <- initial s for asset, m and k for steam and steak
+
+postmortem: I missed SWEAT. They gave me a 78 on this because it doesn't split SWEAT and STEAD and it isn't a valid guess. Their guess STEAD doesn't split STEAK and STEAM (which is why I didn't pick it), but it is a valid guess, so with all else equal is better.
+
+after 3
+----
+
+not s*
+
+asset
+
+yay!
+
+postmortem: I didn't get a great score here, but I'm actually fine with my play
+
+
+
+
