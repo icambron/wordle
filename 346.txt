@@ -1,0 +1,13 @@
+raise -> count
+
+after 2
+----
+
+BANOR
+MANOR*
+
+Was pretty systematic. barring some very off-the-wall word, pretty sure we're 50/50
+
+yay!
+
+postmortem: they liked clomp over count. i was right about banor/manor. Straightforward
