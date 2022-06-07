@@ -1,0 +1,7 @@
+raise -> count -> glyph
+
+flood
+blood*
+bloom
+
+must be flood
