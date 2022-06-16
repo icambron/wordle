@@ -1,0 +1,20 @@
+raise -> count
+
+after 2
+-----
+
+ORGAN
+GROAN*
+
+postmortem: missed APRON and ADORN. Should have looked harder at A*. But GROAN worked out perfectly anyway
+
+after 3
+----
+
+APRON*
+
+yay
+
+postmortem: 96, but lame that i missed those words
+
+
