@@ -1,0 +1,23 @@
+raise -> count -> glyph
+
+postmortem: glyph wasn't great because there were only a few: blown, flown, knoll, known, nylon. I didn't really even look though. And blown (or flown) is actually the best answer there (others leave blown/flown ambiguous).
+
+after 3
+----
+
+N can't go first, and O has to go after the L, so I think we have
+
+*LO*N
+
+like:
+
+BLOWN*
+FLOWN
+
+I don't see any O* ones, and not much other than W can go in that penultimate spot
+
+So I guess we go with one of those?
+
+Yay
+
+postmortem: those were the only two
