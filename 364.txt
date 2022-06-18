@@ -1,0 +1,18 @@
+raise -> count
+
+postmortem: count was optimal, and the only optimal one
+
+after 2
+----
+
+CAMMO <-- i fell like this is not a wordle word
+CACAO <-- ? what exactly is cacao? This is in the category of words I know but only kind of. Creme de cacao goes in drinks, so I guess it's a plant?
+
+I am at a loss. I think cacao is more likely than cammo, so let's go with that
+
+ha!
+
+postmortem: cacao, n, seeds from a small tropical American evergreen tree, from which cocoa, cocoa butter, and chocolate are made.
+
+NYT gave me a 99.
+
