@@ -1,0 +1,27 @@
+raise -> count
+
+after 2
+-----
+
+-TI*ON
+-NI*TO
+-IN*TO
+-INTO*
+-INT*O
+-IT*ON
+-ITO*N
+-I*TON
+-ONTI*
+-*INTO
+-*ITON
+-*TION
+
+
+TIGON <-- a little obscure?
+PINTO*
+
+yay!
+
+postmortem: 98 overall. COUNT was 96 (yay heuristics) and PINTO was the only word
+
+
